@@ -49,7 +49,7 @@ I worked successfully with various business teams and marketing folk to translat
 * [Developer Story](https://stackoverflow.com/users/story/6320109)
 * [Older Design and Development Work](http://www.littleredplanedesign.com/)
 
-### [Interests and Other Bits](#interestotherbits)
+### Interests and Other Bits
 Interests outside of development include
 * Working on the house
 * Playing board games with friends (have been an avid board gamer for years)
