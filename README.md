@@ -7,7 +7,7 @@
   <a href="#pastfewmonths">Past 3 Months</a>&nbsp;|
   <a href="#tech">Technologies</a>&nbsp;|
   <a href="#priorhighlights">Interests</a>&nbsp;|
-  <a href="#viewwork">View My Work</a>&nbsp;|
+  <a href="#view-my-work">View My Work</a>&nbsp;|
   <a href="#interestotherbits">Interests and Other Bits</a>
 </h4>
 
