@@ -1,5 +1,5 @@
 # Hello, my name is Joe Hillman and I am a front end engineer for The Boston Globe.
-## I am largely responsible for developing new, extending, maintaining, and fixing existing components on a Scrum/Agile team.
+## I am largely responsible for developing new, extending, maintaining, or fixing existing components on a Scrum/Agile team.
 --------------------------------
 
 <h4 align="center">
