@@ -4,11 +4,11 @@
 
 <h4 align="center">
   <a href="#about">About</a>&nbsp;|
-  <a href="#past-few-months">Past 3 Months</a>&nbsp;|
-  <a href="#tech">Technologies</a>&nbsp;|
+  <a href="#past-few-months">Past Few Months</a>&nbsp;|
+  <a href="#technologies">Technologies</a>&nbsp;|
   <a href="#prior-highlights">Prior Highlights</a>&nbsp;|
   <a href="#view-my-work">View My Work</a>&nbsp;|
-  <a href="#interest-and-other-bits">Interests and Other Bits</a>
+  <a href="#interests-and-other-bits">Interests and Other Bits</a>
 </h4>
 
 ### About
