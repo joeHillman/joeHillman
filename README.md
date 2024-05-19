@@ -49,7 +49,6 @@ I worked successfully with various business teams and marketing folk to translat
 ### View My Work
 * [Current React Work](https://github.com/joeHillman/react-workbench)
 * [LinkedIn](https://www.linkedin.com/in/joehillman/)
-* [Developer Story](https://stackoverflow.com/users/story/6320109)
 * [Older Design and Development Work](http://www.littleredplanedesign.com/)
 
 ### Interests and Other Bits
