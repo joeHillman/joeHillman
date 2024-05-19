@@ -14,11 +14,14 @@
 ### About
 I hold a Bacehlor's degree in Music Technology and a Certification in Multimedia design that included web design and development, graphic design, audio video production and 3d modeling, rendering and gaming.
 
-I've been working as a front end developer since 2010, have some background in visual design and have a proven track record for details, reusability, and visual design.
-Crafting easy to use interfaces with care, consistency, and simplicity for the end user is what excites me about front end development.
+I've been working as a front end developer since 2010, have a proven track record for details, reusability, and some background in visual design.
+Crafting accessible and easy to use interfaces with care, consistency, and simplicity for the end user is what excites me about front end development.
 
 ### Past Few Months
-The past few months of work has included a good deal of accessibiliy updates and new feature development to the flagship site, some component library work for the 2021 election cycle, and self study of the Gatsby ecosystem in preparation for some tool migrations.
+The past few months of work has included vendor platform migrations, a good deal of accessibiliy updates and new feature development to the flagship site, and some automation tasks surrounding Github actions and Jira API's. 
+The platform migrations have included analysis of what needs migrations and when, where, and how to apply these migrations prior to coding cross cutting utility functions to facilitate quick migrations for other developers assiting with this large migration.
+
+I've also been working on a Zettelkasten, which is a German note taking system for my own knowledgebase, to pair theory with working examples for both a round trip learning and development environment and updated personal portfolio concept. With this new platform I intend to start putting my Typescript to use migrating over React development pieces.
 
 ### Technologies and Industries
 ![](https://img.shields.io/badge/Tech-HTML/CSS/JS-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=5eb7ff)
